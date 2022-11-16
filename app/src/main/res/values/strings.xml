@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirstInClassActivity1</string>
+    <string name="body_mass_index">Body Mass Index</string>
+    <string name="enter_weight_in_kg">Please enter your weight in Kg:</string>
+    <string name="height_in_meters">Enter height in meters:</string>
+    <string name="male">Male</string>
 </resources>
